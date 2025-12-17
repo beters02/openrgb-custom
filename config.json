@@ -1,0 +1,9 @@
+{
+    "project_version": "1.0",
+    "project_name": "OpenRGB Custom Effects",
+    "project_description": "A cli to manage my custom openrgb effects",
+    "project_path": "/home/bryce/Documents/projects/openrgb-custom",
+
+    "open_on_startup": true,
+    "default_effect": "BouncingBallWithSolidBackground"
+}
